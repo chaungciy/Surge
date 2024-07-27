@@ -1,0 +1,51 @@
+proxies:
+  - {"name":"🏳️‍🌈 剩余流量：4313.27 GB","type":"trojan","server":"2sg1109303e88-c58a-94b1-d177-f0dee4367ea5.170203.xyz","port":719,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"2sg1109303e88-c58a-94b1-d177-f0dee4367ea5.170203.xyz"}
+  - {"name":"🏴‍☠️ 套餐到期：长期有效","type":"trojan","server":"2sg1109303e88-c58a-94b1-d177-f0dee4367ea5.170203.xyz","port":719,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"2sg1109303e88-c58a-94b1-d177-f0dee4367ea5.170203.xyz"}
+  - {"name":"🇯🇵 推荐使用新加坡直连或者日本直连节点，速度更快","type":"trojan","server":"2sg1109303e88-c58a-94b1-d177-f0dee4367ea5.170203.xyz","port":719,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"2sg1109303e88-c58a-94b1-d177-f0dee4367ea5.170203.xyz"}
+  - {"name":"🏴‍☠️ 最新节点支持Hysteria2协议，请到官网下载最新客户端（最新官网feiniaoyun14.life）","type":"trojan","server":"sg123.156786.xyz","port":719,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"sg123.156786.xyz"}
+  - {"name":"🇸🇬 新加坡|01|直连","type":"trojan","server":"1sg0001.156786.xyz","port":718,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"1sg0001.156786.xyz"}
+  - {"name":"🇸🇬 新加坡|02|直连A","type":"trojan","server":"1sgmax02.156786.xyz","port":719,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"1sgmax02.156786.xyz"}
+  - {"name":"🇸🇬 新加坡02直连A","type":"trojan","server":"2sgmax02.156786.xyz","port":719,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"2sgmax02.156786.xyz"}
+  - {"name":"🇸🇬 新加坡02直连","type":"trojan","server":"0sgmax02.170203.xyz","port":725,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"0sgmax02.170203.xyz"}
+  - {"name":"🇸🇬 新加坡01直连A","type":"trojan","server":"sssg001.156786.xyz","port":722,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"sssg001.156786.xyz"}
+  - {"name":"🇸🇬 新加坡|03直连A","type":"trojan","server":"2sg03.170809.xyz","port":719,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"2sg03.170809.xyz"}
+  - {"name":"🇸🇬 新加坡|01直连Hysteria2","server":"2sg001.170809.xyz","port":8080,"udp":true,"skip-cert-verify":false,"sni":"2sg001.170809.xyz","type":"hysteria2","password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312"}
+  - {"name":"🇸🇬 新加坡H01直连Hysteria2","server":"hyfnsg01.156786.xyz","port":8080,"udp":true,"skip-cert-verify":false,"sni":"hyfnsg01.156786.xyz","type":"hysteria2","password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312"}
+  - {"name":"🇸🇬 新加坡H02直连Hysteria2","server":"hyfnsg02.156786.xyz","port":8080,"udp":true,"skip-cert-verify":false,"sni":"hyfnsg02.156786.xyz","type":"hysteria2","password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312"}
+  - {"name":"🇨🇳 台湾H01直连ChatGPT","server":"tw2.233235.xyz","port":8080,"udp":true,"skip-cert-verify":false,"sni":"tw2.233235.xyz","type":"hysteria2","password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312"}
+  - {"name":"🇨🇳 台湾H02直连ChatGPT","server":"5gzdx.233235.xyz","port":8080,"udp":true,"skip-cert-verify":false,"sni":"5gzdx.233235.xyz","type":"hysteria2","password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312"}
+  - {"name":"🇨🇳 台湾H02直连ChatGPT1","server":"2gzdx21.156786.xyz","port":8080,"udp":true,"skip-cert-verify":false,"sni":"2gzdx21.156786.xyz","type":"hysteria2","password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312"}
+  - {"name":"🇨🇳 台湾H03奈飞ChatGPTC","server":"tw4.233235.xyz","port":8080,"udp":true,"skip-cert-verify":false,"sni":"tw4.233235.xyz","type":"hysteria2","password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312"}
+  - {"name":"🇯🇵 日本H01直连Hysteria2","server":"hyfnjp01.156786.xyz","port":8081,"udp":true,"skip-cert-verify":false,"sni":"hyfnjp01.156786.xyz","type":"hysteria2","password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312"}
+  - {"name":"🇯🇵 日本H02直连Hysteria2","server":"1jpmax05.156786.xyz","port":8081,"udp":true,"skip-cert-verify":false,"sni":"1jpmax05.156786.xyz","type":"hysteria2","password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312"}
+  - {"name":"🇯🇵 日本H05直连Hysteria2","server":"0jp05.156786.xyz","port":8080,"udp":true,"skip-cert-verify":false,"sni":"0jp05.156786.xyz","type":"hysteria2","password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312"}
+  - {"name":"🇮🇳 印度|01|直连Hysteria2","server":"in01.170203.xyz","port":8080,"udp":true,"skip-cert-verify":false,"sni":"in01.170203.xyz","type":"hysteria2","password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312"}
+  - {"name":"🇬🇧 英国|01|直连Hysteria2","server":"uk011712fbec-507b-957e-e396-77cc61a4d6f6.170203.xyz","port":8080,"udp":true,"skip-cert-verify":false,"sni":"uk011712fbec-507b-957e-e396-77cc61a4d6f6.170203.xyz","type":"hysteria2","password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312"}
+  - {"name":"🇰🇷 韩国|02|直连Hysteria2","server":"0kr02.156786.xyz","port":8080,"udp":true,"skip-cert-verify":false,"sni":"0kr02.156786.xyz","type":"hysteria2","password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312"}
+  - {"name":"🇺🇸 美国H01直连Hysteria2","server":"hyfnus01.156786.xyz","port":8080,"udp":true,"skip-cert-verify":false,"sni":"hyfnus01.156786.xyz","type":"hysteria2","password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312"}
+  - {"name":"🇭🇰 香港H03直连Hysteria2","server":"hkmax003.233235.xyz","port":8080,"udp":true,"skip-cert-verify":false,"sni":"hkmax003.233235.xyz","type":"hysteria2","password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312"}
+  - {"name":"🇸🇬 新加坡|04直连A","type":"trojan","server":"1sg04.170203.xyz","port":718,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"1sg04.170203.xyz"}
+  - {"name":"🇨🇳 台湾01直连ChatGPT3","type":"trojan","server":"tw2.233235.xyz","port":725,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"tw2.233235.xyz"}
+  - {"name":"🇨🇳 台湾02直连ChatGPT3","type":"trojan","server":"5gzdx.233235.xyz","port":725,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"5gzdx.233235.xyz"}
+  - {"name":"🇨🇳 台湾|01奈飞ChatGPT2","type":"trojan","server":"2gzdx21.156786.xyz","port":706,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"2gzdx21.156786.xyz"}
+  - {"name":"🇨🇳 台湾|05奈飞ChatGPT4","type":"trojan","server":"tw5.170203.xyz","port":2222,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"tw5.170203.xyz"}
+  - {"name":"🇨🇳 台湾02奈飞ChatGPT","type":"trojan","server":"6gzdx2.233235.xyz","port":712,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"6gzdx2.233235.xyz"}
+  - {"name":"🇨🇳 台湾|04奈飞ChatGPT3","type":"trojan","server":"sg1111.156786.xyz","port":703,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"sg1111.156786.xyz"}
+  - {"name":"🇨🇳 台湾|05奈飞ChatGPT5","type":"trojan","server":"tw4.233235.xyz","port":670,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"tw4.233235.xyz"}
+  - {"name":"🇨🇳 台湾|02奈飞ChatGPTC","type":"trojan","server":"tw7.170203.xyz","port":670,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"tw7.170203.xyz"}
+  - {"name":"🇨🇳 台湾|03奈飞ChatGPTC","type":"trojan","server":"tw3.233235.xyz","port":11125,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"tw3.233235.xyz"}
+  - {"name":"🇨🇳 台湾|02奈飞ChatGPT0","type":"trojan","server":"tw1.170203.xyz","port":6678,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"tw1.170203.xyz"}
+  - {"name":"🇨🇳 台湾|03奈飞ChatGPT1","type":"trojan","server":"tw60.233235.xyz","port":703,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"tw60.233235.xyz"}
+  - {"name":"🇺🇸 美国|05|奈飞ChatGPT1","type":"trojan","server":"tw5.170203.xyz","port":28440,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"usmax05.170203.xyz"}
+  - {"name":"🇺🇸 美国|05奈飞ChatGPT0","type":"trojan","server":"tw1.170203.xyz","port":15059,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"usmax05.170203.xyz"}
+  - {"name":"🇸🇬 新加坡|04直连5","type":"trojan","server":"4sgmax02.156786.xyz","port":718,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"4sgmax02.156786.xyz"}
+  - {"name":"🇯🇵 日本|05|直连A","type":"trojan","server":"2jpmax05.233235.xyz","port":725,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"2jpmax05.233235.xyz"}
+  - {"name":"🇯🇵 日本|03|直连|","type":"trojan","server":"jp03.156786.xyz","port":724,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"jp03.156786.xyz"}
+  - {"name":"🇯🇵 日本|01|直连|A","type":"trojan","server":"jpmax01.170809.xyz","port":719,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"jpmax01.170809.xyz"}
+  - {"name":"🇺🇸 美国|01|直连","type":"trojan","server":"2usmax01.170203.xyz","port":719,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"2usmax01.170203.xyz"}
+  - {"name":"🇺🇸 美国|02奈飞ChatGPT0","type":"trojan","server":"tw1.170203.xyz","port":17959,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"usmax02.170203.xyz"}
+  - {"name":"🇺🇸 美国|02奈飞ChatGPT1","type":"trojan","server":"tw3.233235.xyz","port":13171,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"usmax02.170203.xyz"}
+  - {"name":"🏴‍☠️ 电报群https://t.me/feiniaoyunjichang","type":"trojan","server":"2sg13cb2b6b4d-9b32-01a8-7574-376a171bb832.170203.xyz","port":727,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"2sg13cb2b6b4d-9b32-01a8-7574-376a171bb832.170203.xyz"}
+  - {"name":"🇺🇸 美国|03奈飞ChatGPT1","type":"trojan","server":"tw60.233235.xyz","port":18298,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"usmax03.170203.xyz"}
+  - {"name":"🇺🇸 美国|03奈飞ChatGPT2","type":"trojan","server":"tw4.233235.xyz","port":52314,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"usmax03.170203.xyz"}
+  - {"name":"🇯🇵 日本|02|隧道5","type":"trojan","server":"tw5.170203
