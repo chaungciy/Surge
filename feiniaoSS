@@ -48,4 +48,5 @@ proxies:
   - {"name":"🏴‍☠️ 电报群https://t.me/feiniaoyunjichang","type":"trojan","server":"2sg13cb2b6b4d-9b32-01a8-7574-376a171bb832.170203.xyz","port":727,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"2sg13cb2b6b4d-9b32-01a8-7574-376a171bb832.170203.xyz"}
   - {"name":"🇺🇸 美国|03奈飞ChatGPT1","type":"trojan","server":"tw60.233235.xyz","port":18298,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"usmax03.170203.xyz"}
   - {"name":"🇺🇸 美国|03奈飞ChatGPT2","type":"trojan","server":"tw4.233235.xyz","port":52314,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"usmax03.170203.xyz"}
-  - {"name":"🇯🇵 日本|02|隧道5","type":"trojan","server":"tw5.170203
+  - {"name":"🇯🇵 日本|02|隧道5","type":"trojan","server":"tw5.170203.xyz","port":34042,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"2jp04162531be-29a9-2764-8627-51a5f4436fbd.233235.xyz"}
+  - {"name":"🇯🇵 日本|04隧道4","type":"trojan","server":"tw60.233235.xyz","port":47192,"password":"cfa36789-94aa-4c4c-ad06-ab35a8eb9312","udp":true,"sni":"2jp04162531be-29a9-2764-8627-51a5f4436fbd.233235.xyz"}
