@@ -1,36 +1,57 @@
-Fremont-Akamai-H = ss, 124.225.207.40, 22221, encrypt-method=aes-128-gcm, password=13650e3c-9242-4656-a8f2-0d2000585fbb, tfo=false
-🇸🇬 Singapore-Akamai-H = ss, 124.225.207.40, 22224, encrypt-method=aes-128-gcm, password=13650e3c-9242-4656-a8f2-0d2000585fbb, tfo=false
-🇦🇺 Sydney-Akamai-H = ss, 124.225.207.40, 22231, encrypt-method=aes-128-gcm, password=13650e3c-9242-4656-a8f2-0d2000585fbb, tfo=false
-🇯🇵 Osaka-Akamai-H = ss, 124.225.207.40, 22233, encrypt-method=aes-128-gcm, password=13650e3c-9242-4656-a8f2-0d2000585fbb, tfo=false
-Toronto-Akamai-H = ss, 124.225.207.40, 22234, encrypt-method=aes-128-gcm, password=13650e3c-9242-4656-a8f2-0d2000585fbb, tfo=false
-Stockholm-Akamai-H = ss, 124.225.207.40, 22235, encrypt-method=aes-128-gcm, password=13650e3c-9242-4656-a8f2-0d2000585fbb, tfo=false
-Amsterdam-Akamai-H = ss, 124.225.207.40, 22236, encrypt-method=aes-128-gcm, password=13650e3c-9242-4656-a8f2-0d2000585fbb, tfo=false
-🇮🇹 Milan-Akamai-H = ss, 124.225.207.40, 22237, encrypt-method=aes-128-gcm, password=13650e3c-9242-4656-a8f2-0d2000585fbb, tfo=false
-🇬🇧 London-Akamai-H = ss, 124.225.207.40, 22238, encrypt-method=aes-128-gcm, password=13650e3c-9242-4656-a8f2-0d2000585fbb, tfo=false
-🇫🇷 Paris-Akamai-H = ss, 124.225.207.40, 22239, encrypt-method=aes-128-gcm, password=13650e3c-9242-4656-a8f2-0d2000585fbb, tfo=false
-🇮🇩 Jakarta-Akamai-H = ss, 124.225.207.40, 22240, encrypt-method=aes-128-gcm, password=13650e3c-9242-4656-a8f2-0d2000585fbb, tfo=false
-🇧🇷 São Paulo-Akamai-H = ss, 124.225.207.40, 22241, encrypt-method=aes-128-gcm, password=13650e3c-9242-4656-a8f2-0d2000585fbb, tfo=false
-Madrid-Akamai-H = ss, 124.225.207.40, 22242, encrypt-method=aes-128-gcm, password=13650e3c-9242-4656-a8f2-0d2000585fbb, tfo=false
-🇭🇰 香港Hytron-D = ss, 124.225.207.40, 22261, encrypt-method=aes-128-gcm, password=13650e3c-9242-4656-a8f2-0d2000585fbb, tfo=false
-Frankfurt-Akamai-H = ss, 124.225.207.40, 22288, encrypt-method=aes-128-gcm, password=13650e3c-9242-4656-a8f2-0d2000585fbb, tfo=false
-LAX-NetLab-D = ss, 124.225.207.40, 22291, encrypt-method=aes-128-gcm, password=13650e3c-9242-4656-a8f2-0d2000585fbb, tfo=false
-🇮🇳 Mumbai-Akamai-P = ss, 124.225.207.40, 22297, encrypt-method=aes-128-gcm, password=13650e3c-9242-4656-a8f2-0d2000585fbb, tfo=false
-台北Akile-D = ss, 124.225.207.40, 22302, encrypt-method=aes-128-gcm, password=13650e3c-9242-4656-a8f2-0d2000585fbb, tfo=false
-Fremont-Akamai-H (1) = ss, 124.225.207.40, 22221, encrypt-method=aes-128-gcm, password=4c3e297a-a432-49a8-bc4a-6165eb25fdcd, tfo=false
-🇸🇬 Singapore-Akamai-H (1) = ss, 124.225.207.40, 22224, encrypt-method=aes-128-gcm, password=4c3e297a-a432-49a8-bc4a-6165eb25fdcd, tfo=false
-🇦🇺 Sydney-Akamai-H (1) = ss, 124.225.207.40, 22231, encrypt-method=aes-128-gcm, password=4c3e297a-a432-49a8-bc4a-6165eb25fdcd, tfo=false
-🇯🇵 Osaka-Akamai-H (1) = ss, 124.225.207.40, 22233, encrypt-method=aes-128-gcm, password=4c3e297a-a432-49a8-bc4a-6165eb25fdcd, tfo=false
-Toronto-Akamai-H (1) = ss, 124.225.207.40, 22234, encrypt-method=aes-128-gcm, password=4c3e297a-a432-49a8-bc4a-6165eb25fdcd, tfo=false
-Stockholm-Akamai-H (1) = ss, 124.225.207.40, 22235, encrypt-method=aes-128-gcm, password=4c3e297a-a432-49a8-bc4a-6165eb25fdcd, tfo=false
-Amsterdam-Akamai-H (1) = ss, 124.225.207.40, 22236, encrypt-method=aes-128-gcm, password=4c3e297a-a432-49a8-bc4a-6165eb25fdcd, tfo=false
-🇮🇹 Milan-Akamai-H (1) = ss, 124.225.207.40, 22237, encrypt-method=aes-128-gcm, password=4c3e297a-a432-49a8-bc4a-6165eb25fdcd, tfo=false
-🇬🇧 London-Akamai-H (1) = ss, 124.225.207.40, 22238, encrypt-method=aes-128-gcm, password=4c3e297a-a432-49a8-bc4a-6165eb25fdcd, tfo=false
-🇫🇷 Paris-Akamai-H (1) = ss, 124.225.207.40, 22239, encrypt-method=aes-128-gcm, password=4c3e297a-a432-49a8-bc4a-6165eb25fdcd, tfo=false
-🇮🇩 Jakarta-Akamai-H (1) = ss, 124.225.207.40, 22240, encrypt-method=aes-128-gcm, password=4c3e297a-a432-49a8-bc4a-6165eb25fdcd, tfo=false
-🇧🇷 São Paulo-Akamai-H (1) = ss, 124.225.207.40, 22241, encrypt-method=aes-128-gcm, password=4c3e297a-a432-49a8-bc4a-6165eb25fdcd, tfo=false
-Madrid-Akamai-H (1) = ss, 124.225.207.40, 22242, encrypt-method=aes-128-gcm, password=4c3e297a-a432-49a8-bc4a-6165eb25fdcd, tfo=false
-🇭🇰 香港Hytron-D (1) = ss, 124.225.207.40, 22261, encrypt-method=aes-128-gcm, password=4c3e297a-a432-49a8-bc4a-6165eb25fdcd, tfo=false
-Frankfurt-Akamai-H (1) = ss, 124.225.207.40, 22288, encrypt-method=aes-128-gcm, password=4c3e297a-a432-49a8-bc4a-6165eb25fdcd, tfo=false
-LAX-NetLab-D (1) = ss, 124.225.207.40, 22291, encrypt-method=aes-128-gcm, password=4c3e297a-a432-49a8-bc4a-6165eb25fdcd, tfo=false
-🇮🇳 Mumbai-Akamai-P (1) = ss, 124.225.207.40, 22297, encrypt-method=aes-128-gcm, password=4c3e297a-a432-49a8-bc4a-6165eb25fdcd, tfo=false
-台北Akile-D (1) = ss, 124.225.207.40, 22302, encrypt-method=aes-128-gcm, password=4c3e297a-a432-49a8-bc4a-6165eb25fdcd, tfo=false
+🇭🇰香港-TG频道@MFJD666=ss,hk1.network-cdn-gw.cc,47789,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇭🇰香港-TG频道@MFJD666¹=ss,hk2.network-cdn-gw.cc,47790,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇭🇰香港-TG频道@MFJD666²=ss,hk13.network-cdn-gw.cc,47757,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇭🇰香港-TG频道@MFJD666³=ss,hk14.network-cdn-gw.cc,47758,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇭🇰香港-TG频道@MFJD666⁴=ss,hk15.network-cdn-gw.cc,47705,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇭🇰香港-TG频道@MFJD666⁵=ss,hk16.network-cdn-gw.cc,47706,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇭🇰香港-TG频道@MFJD666⁶=ss,hk17.network-cdn-gw.cc,47707,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇭🇰香港-TG频道@MFJD666⁷=ss,hk18.network-cdn-gw.cc,47708,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇭🇰香港-TG频道@MFJD666⁸=ss,hk09.network-cdn-gw.cc,47709,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇭🇰香港-TG频道@MFJD666⁹=ss,hk11.network-cdn-gw.cc,47711,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇭🇰香港-TG频道@MFJD666¹⁰=ss,hkp1.network-cdn-gw.cc,49901,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇭🇰香港-TG频道@MFJD666¹¹=ss,hkp2.network-cdn-gw.cc,49902,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇭🇰香港-TG频道@MFJD666¹²=ss,hkp3.network-cdn-gw.cc,49903,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇭🇰香港-TG频道@MFJD666¹³=ss,hkp4.network-cdn-gw.cc,49904,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇭🇰香港-TG频道@MFJD666¹⁴=ss,hkp5.network-cdn-gw.cc,49905,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇭🇰香港-TG频道@MFJD666¹⁵=ss,hkp6.network-cdn-gw.cc,48806,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇭🇰香港-TG频道@MFJD666¹⁶=ss,hkp7.network-cdn-gw.cc,48807,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇭🇰香港-TG频道@MFJD666¹⁷=ss,hkp8.network-cdn-gw.cc,48808,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇭🇰香港-TG频道@MFJD666¹⁸=ss,hkp9.network-cdn-gw.cc,48809,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇭🇰香港-TG频道@MFJD666¹⁹=ss,hkp11.network-cdn-gw.cc,48810,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇼🇸台湾-TG频道@MFJD666=ss,tw1.network-cdn-gw.cc,46601,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇼🇸台湾-TG频道@MFJD666¹=ss,tw02.network-cdn-gw.cc,46602,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇼🇸台湾-TG频道@MFJD666²=ss,tw03.network-cdn-gw.cc,46603,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇼🇸台湾-TG频道@MFJD666³=ss,tw04.network-cdn-gw.cc,46604,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇼🇸台湾-TG频道@MFJD666⁴=ss,tw05.network-cdn-gw.cc,46605,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇯🇵日本-TG频道@MFJD666=ss,jp01.network-cdn-gw.cc,48801,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇯🇵日本-TG频道@MFJD666¹=ss,jp2.network-cdn-gw.cc,48802,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇯🇵日本-TG频道@MFJD666²=ss,jp3.network-cdn-gw.cc,48803,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇯🇵日本-TG频道@MFJD666³=ss,jp04.network-cdn-gw.cc,48804,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇯🇵日本-TG频道@MFJD666⁴=ss,jp05.network-cdn-gw.cc,48805,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇸🇬新加坡-TG频道@MFJD666=ss,sgp01.network-cdn-gw.cc,45506,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇸🇬新加坡-TG频道@MFJD666¹=ss,sgp02.network-cdn-gw.cc,45507,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇸🇬新加坡-TG频道@MFJD666²=ss,sgp3.network-cdn-gw.cc,45508,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇸🇬新加坡-TG频道@MFJD666³=ss,sgp4.network-cdn-gw.cc,45509,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇸🇬新加坡-TG频道@MFJD666⁴=ss,sgp05.network-cdn-gw.cc,45510,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇰🇷韩国-TG频道@MFJD666=ss,kr03.network-cdn-gw.cc,41115,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇰🇷韩国-TG频道@MFJD666¹=ss,kr01.network-cdn-gw.cc,41117,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇺🇸美国-TG频道@MFJD666=ss,us06.network-cdn-gw.cc,43111,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇺🇸美国-TG频道@MFJD666¹=ss,us07.network-cdn-gw.cc,43211,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇺🇸美国-TG频道@MFJD666²=ss,us08.network-cdn-gw.cc,43212,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇺🇸美国-TG频道@MFJD666³=ss,us9.network-cdn-gw.cc,43213,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇺🇸美国-TG频道@MFJD666⁴=ss,us10.network-cdn-gw.cc,43215,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇺🇸美国-TG频道@MFJD666⁵=ss,us01.network-cdn-gw.cc,44401,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇺🇸美国-TG频道@MFJD666⁶=ss,us02.network-cdn-gw.cc,44402,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇺🇸美国-TG频道@MFJD666⁷=ss,us03.network-cdn-gw.cc,44403,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇺🇸美国-TG频道@MFJD666⁸=ss,us04.network-cdn-gw.cc,44404,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇺🇸美国-TG频道@MFJD666⁹=ss,us05.network-cdn-gw.cc,44405,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇧🇷巴西-TG频道@MFJD666=ss,brd.network-cdn-gw.cc,41118,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇸🇦阿拉伯-TG频道@MFJD666=ss,fr.network-cdn-gw.cc,20004,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇪🇸西班牙-TG频道@MFJD666=ss,hk1.network-cdn-gw.cc,47789,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇪🇸西班牙-TG频道@MFJD666¹=ss,uks1.network-cdn-gw.cc,10014,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇪🇸西班牙-TG频道@MFJD666²=ss,uks1.network-cdn-gw.cc,10015,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇿🇦南非-TG频道@MFJD666=ss,es01.network-cdn-gw.cc,50001,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇮🇱以色列-TG频道@MFJD666=ss,in01.network-cdn-gw.cc,43304,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇨🇱智利-TG频道@MFJD666=ss,au.network-cdn-gw.cc,20003,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇩🇪德国-TG频道@MFJD666=ss,at01.network-cdn-gw.cc,50004,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
+🇷🇺俄罗斯-TG频道@MFJD666=ss,tr03.network-cdn-gw.cc,36221,encrypt-method=chacha20-ietf-poly1305,password=3293037f-210e-4f64-8542-2af0141b8d43
