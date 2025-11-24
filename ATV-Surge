@@ -95,7 +95,7 @@ Gamer = select, DIRECT, Proxy, 🇭🇰 香港节点, 🇺🇸 美国节点, �
 备用台湾节点 = smart, no-alert=0, hidden=1, include-all-proxies=0, include-other-group=🚀 备用机场, policy-regex-filter=(🇨🇳)|(台湾)|(Tai)|(TW)
 备用韩国节点 = smart, no-alert=0, hidden=1, include-all-proxies=0, include-other-group=🚀 备用机场, policy-regex-filter=(🇰🇷)|(韩国)|(Korea)|(KR)
 备用新加坡节点 = smart, no-alert=0, hidden=1, include-all-proxies=0, include-other-group=🚀 备用机场, policy-regex-filter=(🇸🇬)|(新加坡)|(Singapore)|(SG)
-备用机场欧洲节点 = smart, no-alert=0, hidden=1, include-all-proxies=0, include-other-group=🚀 备用机场, policy-regex-filter=🇬🇧|🇫🇷|🇳🇱|🇮🇸|🇩🇪|🇺🇦|🇨🇭|🇪🇺|(GB)|(FR)|(NL)|(IS)(DE)|(英)|(法)|(荷兰)|(德国)|(冰岛)|(瑞士)|(欧盟)
+备用欧洲节点 = smart, no-alert=0, hidden=1, include-all-proxies=0, include-other-group=🚀 备用机场, policy-regex-filter=🇬🇧|🇫🇷|🇳🇱|🇮🇸|🇩🇪|🇺🇦|🇨🇭|🇪🇺|(GB)|(FR)|(NL)|(IS)(DE)|(英)|(法)|(荷兰)|(德国)|(冰岛)|(瑞士)|(欧盟)
 
 [Rule]
 # > 广告拦截
