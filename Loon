@@ -85,31 +85,31 @@ Sub-UK = NameRegex, FilterKey = "^(?=.*((?i)🇬🇧|英国|伦敦|(\b(UK|GB|GBR
 Sub-RA = NameRegex, FilterKey = "^(?=.*(.*))(?!.*((?i)🇭🇰|🇲🇴|🇹🇼|🇯🇵|🇰🇷|🇸🇬|🇺🇸|🇬🇧|香港|澳门|台湾|日本|川日|东京|大阪|泉日|埼玉|韩国|韓|首尔|新加坡|狮|美国|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|英国|伦敦|群|邀请|返利|循环|官网|客服|网站|网址|获取|订阅|流量|总计|到期|机场|下次|重置|重新|设置|版本|官址|备用|过期|已用|联系|邮箱|工单|贩卖|通知|倒卖|防止|国内|地址|频道|无法|说明|使用|提示|特别|访问|支持|教程|关注|更新|作者|加入|超时|收藏|福利|好友|失联|回国|校园|游戏|免登|🎮|(\b(HK|HKG|Hong|Hong Kong|MO|MAC|Oman|Macau|Macao|TW|TWN|Tai|Taiwan|JP|JPN|Japan|KR|KOR|Korea|SG|SGP|Singapore|US|USA|United States|America|UK|GB|GBR|United Kingdom|Britain|USE|USED|TOTAL|EXPIRE|EMAIL|GAME|Panel|Channel|Author|Traffic)(\d+)?\b|(\d{4}-\d{2}-\d{2}|\dG)))).*$"
 
 [Proxy Group]
-手动选择 = select,DIRECT,Hong Kong,Macao,Taiwan,Japan,South Korea,Singapore,United States,United Kingdom,Rare Areas,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Other-Icon/Select.png
-时延优选 = url-test,Hong Kong,Macao,Taiwan,Japan,South Korea,Singapore,United States,United Kingdom,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Other-Icon/UrlTest.png
-故障转移 = fallback,Hong Kong,Macao,Taiwan,Japan,South Korea,Singapore,United States,United Kingdom,interval = 60,max-timeout = 2000,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Other-Icon/Fallback.png
-负载均衡 = load-balance,Hong Kong,Macao,Taiwan,Japan,South Korea,Singapore,United States,United Kingdom,interval = 60,max-timeout = 2000,algorithm = pcc,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Other-Icon/LoadBalance.png
+手动选择 = select,DIRECT,香港,澳门,台湾,日本,韩国,新加坡,美国,英国,其他地区,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Other-Icon/Select.png
+时延优选 = url-test,香港,澳门,台湾,日本,韩国,新加坡,美国,英国,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Other-Icon/UrlTest.png
+故障转移 = fallback,香港,澳门,台湾,日本,韩国,新加坡,美国,英国,interval = 60,max-timeout = 2000,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Other-Icon/Fallback.png
+负载均衡 = load-balance,香港,澳门,台湾,日本,韩国,新加坡,美国,英国,interval = 60,max-timeout = 2000,algorithm = pcc,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Other-Icon/LoadBalance.png
 Global = select,Sub-ALL,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag-Icon/WorldMap.png
-Hong Kong = url-test,Sub-HK,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag-Icon/HongKong.png
-Macao = url-test,Sub-MO,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag-Icon/Macao.png
-Taiwan = url-test,Sub-TW,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag-Icon/Taiwan.png
-Japan = url-test,Sub-JP,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag-Icon/Japan.png
-South Korea = url-test,Sub-KR,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag-Icon/SouthKorea.png
-Singapore = url-test,Sub-SG,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag-Icon/Singapore.png
-United States = url-test,Sub-US,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag-Icon/UnitedStates.png
-United Kingdom = url-test,Sub-UK,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag-Icon/UnitedKingdom.png
-Rare Areas = select,Sub-RA,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag-Icon/UnitedNations.png
-AI = select,Hong Kong,Macao,Taiwan,Japan,South Korea,Singapore,United States,United Kingdom,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/ChatGPT.png
-TikTok = select,Hong Kong,Macao,Taiwan,Japan,South Korea,Singapore,United States,United Kingdom,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/TikTok-02.png
-GitHub = select,Hong Kong,Macao,Taiwan,Japan,South Korea,Singapore,United States,United Kingdom,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/GitHub-02.png
-Microsoft = select,Hong Kong,Macao,Taiwan,Japan,South Korea,Singapore,United States,United Kingdom,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/Microsoft.png
-Google = select,Hong Kong,Macao,Taiwan,Japan,South Korea,Singapore,United States,United Kingdom,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/Google.png
-Instagram = select,Hong Kong,Macao,Taiwan,Japan,South Korea,Singapore,United States,United Kingdom,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/Instagram-02.png
-X = select,Hong Kong,Macao,Taiwan,Japan,South Korea,Singapore,United States,United Kingdom,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/Twitter-02.png
-Telegram = select,Hong Kong,Macao,Taiwan,Japan,South Korea,Singapore,United States,United Kingdom,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/Telegram-01.png
-YouTube = select,Hong Kong,Macao,Taiwan,Japan,South Korea,Singapore,United States,United Kingdom,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/YouTube.png
-Netflix = select,Hong Kong,Macao,Taiwan,Japan,South Korea,Singapore,United States,United Kingdom,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/Netflix-02.png
-Streaming = select,Hong Kong,Macao,Taiwan,Japan,South Korea,Singapore,United States,United Kingdom,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/Conflux.png
+香港 = url-test,Sub-HK,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag-Icon/HongKong.png
+澳门 = url-test,Sub-MO,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag-Icon/Macao.png
+台湾 = url-test,Sub-TW,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag-Icon/Taiwan.png
+日本 = url-test,Sub-JP,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag-Icon/Japan.png
+韩国 = url-test,Sub-KR,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag-Icon/SouthKorea.png
+新加坡 = url-test,Sub-SG,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag-Icon/Singapore.png
+美国 = url-test,Sub-US,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag-Icon/UnitedStates.png
+英国 = url-test,Sub-UK,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag-Icon/UnitedKingdom.png
+其他地区 = select,Sub-RA,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag-Icon/UnitedNations.png
+AI = select,香港,澳门,台湾,日本,韩国,新加坡,美国,英国,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/ChatGPT.png
+TikTok = select,香港,澳门,台湾,日本,韩国,新加坡,美国,英国,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/TikTok-02.png
+GitHub = select,香港,澳门,台湾,日本,韩国,新加坡,美国,英国,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/GitHub-02.png
+Microsoft = select,香港,澳门,台湾,日本,韩国,新加坡,美国,英国,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/Microsoft.png
+Google = select,香港,澳门,台湾,日本,韩国,新加坡,美国,英国,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/Google.png
+Instagram = select,香港,澳门,台湾,日本,韩国,新加坡,美国,英国,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/Instagram-02.png
+X = select,香港,澳门,台湾,日本,韩国,新加坡,美国,英国,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/Twitter-02.png
+Telegram = select,香港,澳门,台湾,日本,韩国,新加坡,美国,英国,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/Telegram-01.png
+YouTube = select,香港,澳门,台湾,日本,韩国,新加坡,美国,英国,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/YouTube.png
+Netflix = select,香港,澳门,台湾,日本,韩国,新加坡,美国,英国,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/Netflix-02.png
+Streaming = select,香港,澳门,台湾,日本,韩国,新加坡,美国,英国,img-url = https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/App-Icon/Conflux.png
 
 [Proxy Chain]
 
@@ -127,6 +127,7 @@ FINAL,手动选择
 # IP-CIDR6, 2000::/3, DIRECT
 # 请勿在此添加GEOIP, cn, DIRECT
 # 请勿修改CN REGION规则的排序甚至删除
+DOMAIN-SUFFIX,dmm.co.jp,日本
 
 [Remote Rule]
 https://raw.githubusercontent.com/sooyaaabo/Loon/main/Rule/PCDN.lsr, policy=REJECT, tag=PCDN, enabled=true
